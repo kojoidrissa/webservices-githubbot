@@ -6,5 +6,5 @@ The docs for the tutorial (*Mariatta has given it multiple times, and is an exce
 
 ## To Do (2021-11-25)
 - Re-write this README in RST
-- Move the project from Heroku-16 to something newer
+- Move the project from Heroku-16 to something newer: https://dashboard.heroku.com/apps
 - Make time to better grok this tutorial content
